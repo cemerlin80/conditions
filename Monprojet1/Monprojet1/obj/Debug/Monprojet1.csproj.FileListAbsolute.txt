@@ -1,0 +1,7 @@
+C:\Users\Moi\Documents\Monprojet1\Monprojet1\Monprojet1\obj\Debug\Monprojet1.csprojAssemblyReference.cache
+C:\Users\Moi\Documents\Monprojet1\Monprojet1\Monprojet1\obj\Debug\Monprojet1.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Documents\Monprojet1\Monprojet1\Monprojet1\bin\Debug\Monprojet1.exe.config
+C:\Users\Moi\Documents\Monprojet1\Monprojet1\Monprojet1\bin\Debug\Monprojet1.exe
+C:\Users\Moi\Documents\Monprojet1\Monprojet1\Monprojet1\bin\Debug\Monprojet1.pdb
+C:\Users\Moi\Documents\Monprojet1\Monprojet1\Monprojet1\obj\Debug\Monprojet1.exe
+C:\Users\Moi\Documents\Monprojet1\Monprojet1\Monprojet1\obj\Debug\Monprojet1.pdb

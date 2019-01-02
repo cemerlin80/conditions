@@ -1,0 +1,7 @@
+C:\Users\Moi\Documents\Monprojet1\Variables\Tableaux ex2\bin\Debug\Tableaux ex2.exe.config
+C:\Users\Moi\Documents\Monprojet1\Variables\Tableaux ex2\bin\Debug\Tableaux ex2.exe
+C:\Users\Moi\Documents\Monprojet1\Variables\Tableaux ex2\bin\Debug\Tableaux ex2.pdb
+C:\Users\Moi\Documents\Monprojet1\Variables\Tableaux ex2\obj\Debug\Tableaux exe2.csprojAssemblyReference.cache
+C:\Users\Moi\Documents\Monprojet1\Variables\Tableaux ex2\obj\Debug\Tableaux exe2.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Documents\Monprojet1\Variables\Tableaux ex2\obj\Debug\Tableaux ex2.exe
+C:\Users\Moi\Documents\Monprojet1\Variables\Tableaux ex2\obj\Debug\Tableaux ex2.pdb

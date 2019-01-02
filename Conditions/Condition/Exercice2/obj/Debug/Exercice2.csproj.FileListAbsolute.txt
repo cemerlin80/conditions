@@ -1,0 +1,7 @@
+C:\Users\Moi\Documents\Monprojet1\Conditions\Condition\Exercice2\bin\Debug\Exercice2.exe.config
+C:\Users\Moi\Documents\Monprojet1\Conditions\Condition\Exercice2\bin\Debug\Exercice2.exe
+C:\Users\Moi\Documents\Monprojet1\Conditions\Condition\Exercice2\bin\Debug\Exercice2.pdb
+C:\Users\Moi\Documents\Monprojet1\Conditions\Condition\Exercice2\obj\Debug\Exercice2.csprojAssemblyReference.cache
+C:\Users\Moi\Documents\Monprojet1\Conditions\Condition\Exercice2\obj\Debug\Exercice2.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Documents\Monprojet1\Conditions\Condition\Exercice2\obj\Debug\Exercice2.exe
+C:\Users\Moi\Documents\Monprojet1\Conditions\Condition\Exercice2\obj\Debug\Exercice2.pdb

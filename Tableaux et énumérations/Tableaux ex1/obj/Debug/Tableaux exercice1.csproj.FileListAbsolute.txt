@@ -1,0 +1,7 @@
+C:\Users\Moi\Documents\Monprojet1\Variables\Tableaux exercice1\obj\Debug\Tableaux exercice1.csprojAssemblyReference.cache
+C:\Users\Moi\Documents\Monprojet1\Variables\Tableaux exercice1\obj\Debug\Tableaux exercice1.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Documents\Monprojet1\Variables\Tableaux exercice1\bin\Debug\Tableaux exercice1.exe.config
+C:\Users\Moi\Documents\Monprojet1\Variables\Tableaux exercice1\bin\Debug\Tableaux exercice1.exe
+C:\Users\Moi\Documents\Monprojet1\Variables\Tableaux exercice1\bin\Debug\Tableaux exercice1.pdb
+C:\Users\Moi\Documents\Monprojet1\Variables\Tableaux exercice1\obj\Debug\Tableaux exercice1.exe
+C:\Users\Moi\Documents\Monprojet1\Variables\Tableaux exercice1\obj\Debug\Tableaux exercice1.pdb
